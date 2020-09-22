@@ -6,8 +6,8 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE;
 
 module.exports = {
   siteMetadata: {
-    siteTitle: `Roboknights`,
-    siteTitleAlt: `Roboknights`,
+    siteTitle: `RoboKnights`,
+    siteTitleAlt: `RoboKnights`,
   },
   plugins: [
     {
@@ -30,7 +30,7 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `School site`,
+            name: `School Site`,
             url: `https://dpsrkp.net`,
           },
         ],
