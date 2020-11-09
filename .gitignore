@@ -36,6 +36,7 @@ build/Release
 node_modules
 jspm_packages
 **/node_modules/**
+!node_modules/@lekoarts
 
 # Typescript v1 declaration files
 typings/
@@ -68,4 +69,3 @@ public
 .vscode
 .DS_Store
 
-!node_modules/@lekoarts
