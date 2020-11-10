@@ -35,11 +35,11 @@ module.exports = {
           },
           {
             name: `Biscuits`,
-            url: `https://dpsrkp.net`,
+            url: `https://biscuitsroboknights.herokuapp.com/`,
           },
           {
             name: `Events`,
-            url: `https://example.com`,
+            url: `https://biscuitsroboknights.herokuapp.com/`,
           }
         ],
       },
@@ -75,6 +75,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-remark-images`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
     shouldAnalyseBundle && {
