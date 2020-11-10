@@ -38,8 +38,8 @@ module.exports = {
             url: `https://biscuitsroboknights.herokuapp.com/`,
           },
           {
-            name: `Events`,
-            url: `https://biscuitsroboknights.herokuapp.com/`,
+            name: `MAKE-A-THON`,
+            url: `https://exun.co/20/makeathon`,
           }
         ],
       },
