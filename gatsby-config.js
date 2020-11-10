@@ -33,6 +33,14 @@ module.exports = {
             name: `School Site`,
             url: `https://dpsrkp.net`,
           },
+          {
+            name: `Biscuits`,
+            url: `https://dpsrkp.net`,
+          },
+          {
+            name: `Events`,
+            url: `https://example.com`,
+          }
         ],
       },
     },
